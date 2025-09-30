@@ -37,7 +37,7 @@ jobs:
       run: npm install
 
     - name: Start application
-      run: npm start"iIQQXRyQ#lXkwXhKKgz-n3VgjfHG-rF5fLfzXTCHOMIIZ8Kagi9c", // Add your session id
+      run: npm start"vV4C1Ara#tdFkElFzfOto9TUg6FgKVe5ugRYPkLtQEqWGR2PeRDo", // Add your session id
 PREFIX: process.env.PREFIX || "-",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
 OWNER_NUMBER: process.env.OWNER_NUMBER || "989902626067",
